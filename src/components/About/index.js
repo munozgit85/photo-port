@@ -3,8 +3,6 @@ import coverImage from "../../assets/cover/cover-image.jpg";
 
 function About() {
   return (
-    //add the my-5 class to the <section> tag. To do so, we need to call the class
-    //attribute className, as follows, because class is already a keyword in JavaScript. Add the following code:
     <section className="my-5">
       <h1 id="about">Who am I?</h1>
       <img
