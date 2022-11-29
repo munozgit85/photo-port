@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://munozgit85.github.io/photo-port",
   "dependencies": {
+    "babel": "^6.23.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "^5.0.1",
